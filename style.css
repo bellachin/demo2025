@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+/*for paragraph with id main; idenitfy id with hashtag*/
+#main {
+    color: brown;
+    background-color: darkgray;
+}
+
+/* dots are for classes*/
+.A {
+    border: 5px solid black;
+    /* padding is for margin & needs 3 things*/
+    padding: 0 10px 20px 30px
+}
